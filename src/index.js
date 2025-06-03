@@ -2,7 +2,7 @@
 let nomeHeroi = "Laquisa"
 
 // Solicita a quantidade de XP e converte para número
-let xpHeroi = ("10050"));
+let xpHeroi = ("10050");
 
 // Variável para armazenar o nível
 let nivel = "Radiante";
